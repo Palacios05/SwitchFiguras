@@ -44,4 +44,7 @@ switch (opcion) {
 
     break;
   }
+
+  /* Codigo para encontrar areas de figuras */
+  
   
